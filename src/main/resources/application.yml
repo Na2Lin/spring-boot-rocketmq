@@ -1,0 +1,7 @@
+mybatis:
+  mapper-locations: classpath*:com/tml/springbootrocketmq/mapper/*.xml
+datasource:
+  url: jdbc:mysql://120.79.77.11:3784/demorocket
+  driverClass: com.mysql.jdbc.Driver
+  username: root
+  password: HaoHao_112
