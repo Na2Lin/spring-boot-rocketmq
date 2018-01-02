@@ -86,12 +86,12 @@
 		</dependency>
 
 
-		<!-- https://mvnrepository.com/artifact/io.netty/netty-tcnative -->
-		<dependency>
-			<groupId>io.netty</groupId>
-			<artifactId>netty-tcnative</artifactId>
-			<version>1.1.33.Fork22</version>
-		</dependency>
+		<!--&lt;!&ndash; https://mvnrepository.com/artifact/io.netty/netty-tcnative &ndash;&gt;-->
+		<!--<dependency>-->
+			<!--<groupId>io.netty</groupId>-->
+			<!--<artifactId>netty-tcnative</artifactId>-->
+			<!--<version>1.1.33.Fork22</version>-->
+		<!--</dependency>-->
 
 
 		<dependency>
