@@ -51,32 +51,13 @@
 			<artifactId>mysql-connector-java</artifactId>
 			<version>5.1.40</version>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/org.apache.rocketmq/rocketmq-client -->
-		<!--<dependency>-->
-			<!--<groupId>org.apache.rocketmq</groupId>-->
-			<!--<artifactId>rocketmq-client</artifactId>-->
-			<!--<version>4.2.0</version>-->
-		<!--</dependency>-->
-		<!-- https://mvnrepository.com/artifact/com.alibaba.rocketmq/rocketmq-client -->
+
 		<dependency>
 			<groupId>com.alibaba.rocketmq</groupId>
 			<artifactId>rocketmq-client</artifactId>
 			<version>3.5.9</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/org.apache.rocketmq/rocketmq-common -->
-		<!--<dependency>-->
-			<!--<groupId>org.apache.rocketmq</groupId>-->
-			<!--<artifactId>rocketmq-common</artifactId>-->
-			<!--<version>4.2.0</version>-->
-			<!--<exclusions>-->
-				<!--<exclusion>-->
-					<!--<groupId>io.netty</groupId>-->
-					<!--<artifactId>netty-tcnative</artifactId>-->
-				<!--</exclusion>-->
-			<!--</exclusions>-->
-			<!--<classifier>1.5</classifier>-->
-		<!--</dependency>-->
 
 		<!-- https://mvnrepository.com/artifact/com.alibaba.rocketmq/rocketmq-common -->
 		<dependency>
@@ -84,15 +65,6 @@
 			<artifactId>rocketmq-common</artifactId>
 			<version>3.5.9</version>
 		</dependency>
-
-
-		<!--&lt;!&ndash; https://mvnrepository.com/artifact/io.netty/netty-tcnative &ndash;&gt;-->
-		<!--<dependency>-->
-			<!--<groupId>io.netty</groupId>-->
-			<!--<artifactId>netty-tcnative</artifactId>-->
-			<!--<version>1.1.33.Fork22</version>-->
-		<!--</dependency>-->
-
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
